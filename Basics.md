@@ -9,4 +9,4 @@ NFV :
 
 NF Architecture:
 
-![Optional Text](https://github.com/kesavand/GSM/blob/master/Images/GSMArchitecture.jpg)
+![Optional Text](https://github.com/kesavand/nfv/blob/master/Images/NFV_Architectural_framework.PNG)
